@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 10vh;
+
+}
+a{
+    text-decoration: none;
+    padding-left: 2px;
+}
+.home_logo{
+    color: green;
+    font-family: cursive;
+}
+.button{
+    border-radius: 25px;
+    padding: 10px;
+    border: none;
+    background-color: green;
+    color: white;
+}
